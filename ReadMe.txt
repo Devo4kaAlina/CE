@@ -1,0 +1,1 @@
+Some examples are written in typescript. Read this before starting https://www.typescriptlang.org/docs/tutorial.html
